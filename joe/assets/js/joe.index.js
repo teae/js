@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <ul class="items">
                                     <li>${_.created}</li>
                                     <li>${_.views} 阅读</li>
-                                    <li>${_.commentsNum} 评论</li>
+                                    <!--li>${_.commentsNum} 评论</li-->
                                     <li>${_.agree} 点赞</li>
                                 </ul>
                                 <div class="last" style="display: ${_.category.length ? 'flex' : 'none'}">
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <ul class="items">
                                     <li>${_.created}</li>
                                     <li>${_.views} 阅读</li>
-                                    <li>${_.commentsNum} 评论</li>
+                                    <!--li>${_.commentsNum} 评论</li-->
                                     <li>${_.agree} 点赞</li>
                                 </ul>
                                 <div class="last" style="display: ${_.category.length ? 'flex' : 'none'}">
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <ul class="items">
                                 <li>${_.created}</li>
                                 <li>${_.views} 阅读</li>
-                                <li>${_.commentsNum} 评论</li>
+                                <!--li>${_.commentsNum} 评论</li-->
                                 <li>${_.agree} 点赞</li>
                             </ul>
                             <div class="last" style="display: ${_.category.length ? 'flex' : 'none'}">
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <ul class="items">
                                     <li>${_.created}</li>
                                     <li>${_.views} 阅读</li>
-                                    <li>${_.commentsNum} 评论</li>
+                                    <!--li>${_.commentsNum} 评论</li-->
                                     <li>${_.agree} 点赞</li>
                                 </ul>
                                 <div class="last" style="display: ${_.category.length ? 'flex' : 'none'}">
